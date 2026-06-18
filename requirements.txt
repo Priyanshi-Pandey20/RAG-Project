@@ -1,0 +1,13 @@
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+mistralai
+chromadb
+sentence-transformers
+python-dotenv
+pypdf
+streamlit
+pydantic
+beautifulsoup4
